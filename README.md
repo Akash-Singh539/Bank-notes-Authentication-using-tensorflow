@@ -1,4 +1,4 @@
-#Bank-Note-Authentication-Artificial-Neural-Network-Tensorflow-Model-Adam-Optimizer
+Bank-Note-Authentication-Artificial-Neural-Network-Tensorflow-Model-Adam-Optimizer
 An Artificial Neural Network Model using Tensorflow and Adam Optimizer, it can identify whether a note is a real note or a fake one.
 
 Data Set Information:
